@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @banele-za
 - 👀 I’m interested in software development and a little game development.
-- 🌱 I’m currently learning python 🐍.
 - 📫 How to reach me: banelesibiya47@gmail.com
 
 <!---
